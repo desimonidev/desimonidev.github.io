@@ -7,4 +7,24 @@ Há outras ferramentas para tornar a mudança do css automática, mas ele só
 vai mostrar no curso de JS.
 Aula foi instalação do cleancss, via npm
 
- 
+Aula 804 HTML CSS Iniciantes
+Adicionei o portifolio ao github
+comandos:
+	git config user.name "Desimoni"
+	git config user.email "desimonidev@gmail.com"
+	git add . (o nome do arquivo sai como o nome do projeto/pasta)
+	git add -A
+	git add nome_do_arquivo
+	git commit -m "descrição"
+
+
+Adicionado repositório com o nome desimoniorigamid.github.io para subir para a web
+não só no local
+Github pages só podemos ter um site pessoal por vez. É o equivalente ao nosso portfólio
+então o nome do rep tem que ser "nome_do_usuário.github.io". Se criarmos com outro nome,
+não vai subir.
+comandos:
+		git remote add origin https://github.com/desimonidev/desimoniorigamid.github.io.git
+		git branch -M main
+		git push -u origin main
+Depois só conectar em "https://desimonidev.github.io"
