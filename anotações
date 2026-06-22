@@ -1,0 +1,10 @@
+Aula 803 HTML CSS Iniciantes
+ferramenta de optimização de css, retirar espaços e tornar o arquivo menor
+clean-css-cli
+comando: cleancss -o style.min.css style.css
+			-output   nome novo arquivo		nome arquivo base
+Há outras ferramentas para tornar a mudança do css automática, mas ele só
+vai mostrar no curso de JS.
+Aula foi instalação do cleancss, via npm
+
+ 
